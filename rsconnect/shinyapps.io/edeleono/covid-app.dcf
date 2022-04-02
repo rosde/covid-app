@@ -1,0 +1,13 @@
+name: covid-app
+title: covid-app
+username:
+account: edeleono
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5988305
+bundleId: 5752272
+url: https://edeleono.shinyapps.io/covid-app/
+when: 1648780325.62001
+lastSyncTime: 1648780325.62003
+asMultiple: FALSE
+asStatic: FALSE
